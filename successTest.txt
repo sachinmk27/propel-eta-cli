@@ -1,0 +1,1 @@
+//I have pulled upadated text file from master branch successfully and able to push another text file from my local branch to master branch on the remote server.
